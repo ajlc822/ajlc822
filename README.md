@@ -16,9 +16,9 @@ Hey there! I'm Audrey — a Wellesley College student located in the Greater Bos
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZ4Z2dyY3ZheGcxZmE4YjBycGtxeW9heWYzdXd1ZHRrbGdxbmF1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="140"/>
 </div>
-Whether you're looking for a cool intern or a person to yap about music to — I'm your person. Slide into my inbox, no weird handshakes required. 😄
-📬 ac163@wellesley.edu
-💼 linkedin.com/in/audrey-chang-a313a0316/
+Whether you're looking for a cool intern or a person to yap about music to — I'm your person. Slide into my inbox, no weird handshakes required. 😄 <br>
+📬 ac163@wellesley.edu <br>
+💼 linkedin.com/in/audrey-chang-a313a0316/ 
 
 <!--
 **ajlc822/ajlc822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
